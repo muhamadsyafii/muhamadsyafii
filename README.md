@@ -12,9 +12,9 @@ My motivation is to be useful to others and fulfill my obligations to complete e
 
 ## Current activity
 
-- 📖 I’m currently learning android;
+- 📖 I’m currently learning Android;
 - 🤔 My interests are with Android Developer;
 - 💼 I’m a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via muhamadsyafii4@gmail.com to reach me.
-- 📝 See my <a href="https://id.linkedin.com/in/muhamadsyafii4">linked.in</a> to get more info.
+- 📝 See my <a href="https://id.linkedin.com/in/muhamadsyafii4" target="_blank">Linked.in</a> to get more info.
