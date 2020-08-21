@@ -21,3 +21,7 @@ My motivation is to be useful to others and fulfill my obligations to complete e
 
 ##
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadsyafii&layout=compact)
+
+## Social Media
+<a href="https://www.instagram.com/fii.upl" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="32px" alt="Instagram"></a>
+<a href="https://id.linkedin.com/in/muhamadsyafii4" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="32px" alt="LinkedIn"></a>
