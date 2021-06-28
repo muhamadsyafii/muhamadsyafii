@@ -8,7 +8,7 @@ I live in West Java, Indonesian
 ## Languages and My Tech Toolbox 🧰 
 
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="40" height="40"/> 
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/android-studio.svg" alt="android" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
@@ -16,7 +16,6 @@ I live in West Java, Indonesian
  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="xd" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg" alt="zeplin" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/android-studio.svg" alt="figma" width="40" height="40"/>
 </p>
 
 
