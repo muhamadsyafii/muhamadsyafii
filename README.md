@@ -6,7 +6,6 @@ Hi, I'm Muhamad Syafii 👨. I live in West Java.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=muhamadsyafii&show_icons=true)
 
- ![Visitor Count](https://profile-counter.glitch.me/{muhamadsyafii}/count.svg)
 
 ## How I work
 
@@ -28,3 +27,6 @@ My motivation is to be useful to others and fulfill my obligations to complete e
 ## Social Media
 <a href="https://www.instagram.com/fii.upl" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="32px" alt="Instagram"></a>
 <a href="https://www.linkedin.com/in/muhamadsyafii4" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="32px" alt="LinkedIn"></a>
+
+## Visitor
+ ![Visitor Count](https://profile-counter.glitch.me/{muhamadsyafii}/count.svg)
