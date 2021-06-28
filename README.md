@@ -23,7 +23,7 @@ I live in West Java, Indonesian
 
 My motivation is to be useful to others and fulfill my obligations to complete existing tasks, complete all checks ✅ that have not been completed and learn many new things 🆕 so that they remain open and easy to follow the flow. 😄
 
-## Current activity
+## Current activity 👨‍💻
 
 - 📖 I’m currently learning Android;
 - 🤔 My interests are with Android Developer;
