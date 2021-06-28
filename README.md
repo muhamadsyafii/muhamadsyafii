@@ -1,4 +1,4 @@
-## Hi,I'm Muhamad Syafii 👨 <img src="https://github.com/muhamadsyafii/muhamadsyafii/blob/master/gif/Hi.gif?raw=true" width="30px">
+## Hi, I'm Muhamad Syafii 👨 <img src="https://github.com/muhamadsyafii/muhamadsyafii/blob/master/gif/Hi.gif?raw=true" width="30px">
 [<img height="30" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" target="_blank" />][Instagram]
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />][twitter]
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />][LinkedIn]
@@ -33,7 +33,7 @@ My motivation is to be useful to others and fulfill my obligations to complete e
 
 
 ## 📊 Github Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=muhamadsyafii&show_icons=true&theme=gotham" alt="Muhamad Syafii | Stats" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=muhamadsyafii&show_icons=true" alt="Muhamad Syafii | Stats" />
 
 ## Visitor
  ![Visitor Count](https://profile-counter.glitch.me/{muhamadsyafii}/count.svg)
