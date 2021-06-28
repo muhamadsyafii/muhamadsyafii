@@ -1,7 +1,7 @@
 ## Hi,I'm Muhamad Syafii 👨 <img src="https://github.com/muhamadsyafii/muhamadsyafii/blob/master/gif/Hi.gif?raw=true" width="30px">
-[<img height="30" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" />][Instagram]
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" target="_blank" />][Instagram]
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" target="_blank" />][twitter]
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />][LinkedIn]
 
 I live in West Java, Indonesian
 
@@ -30,19 +30,11 @@ My motivation is to be useful to others and fulfill my obligations to complete e
 - 💼 I’m a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via muhamadsyafii4@gmail.com to reach me.
-- 📝 See my <a href="https://id.linkedin.com/in/muhamadsyafii4" target="_blank">Linked.in</a> to get more info.
 
 
- <details>
-<summary>📊 Github Performance Overall</summary>
-
+## 📊 Github Performance Overall
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muhamadsyafii&show_icons=true&theme=gotham" alt="Muhamad Syafii | Stats" />
-
-</details>
-
-## Social Media
-<a href="https://www.instagram.com/fii.upl" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="32px" alt="Instagram"></a>
-<a href="https://www.linkedin.com/in/muhamadsyafii4" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="32px" alt="LinkedIn"></a>
+ <details>
 
 ## Visitor
  ![Visitor Count](https://profile-counter.glitch.me/{muhamadsyafii}/count.svg)
