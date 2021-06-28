@@ -1,4 +1,7 @@
 ## Hi,I'm Muhamad Syafii 👨 <img src="https://github.com/muhamadsyafii/muhamadsyafii/blob/master/gif/Hi.gif?raw=true" width="30px">
+[<img height="30" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" />][Instagram]
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
 I live in West Java, Indonesian
 
@@ -43,3 +46,8 @@ My motivation is to be useful to others and fulfill my obligations to complete e
 
 ## Visitor
  ![Visitor Count](https://profile-counter.glitch.me/{muhamadsyafii}/count.svg)
+ 
+ 
+[twitter]: https://twitter.com/fii_upl
+[linkedin]: https://www.linkedin.com/in/muhamadsyafii
+[Instagram]: https://www.instagram.com/fii.upl
