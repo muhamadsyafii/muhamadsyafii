@@ -32,9 +32,8 @@ My motivation is to be useful to others and fulfill my obligations to complete e
 - 📫 Please email via muhamadsyafii4@gmail.com to reach me.
 
 
-## 📊 Github Performance Overall
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muhamadsyafii&show_icons=true&theme=gotham" alt="Muhamad Syafii | Stats" />
- <details>
+## 📊 Github Stats
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=muhamadsyafii&show_icons=true&theme=gotham" alt="Muhamad Syafii | Stats" />
 
 ## Visitor
  ![Visitor Count](https://profile-counter.glitch.me/{muhamadsyafii}/count.svg)
