@@ -10,7 +10,7 @@ Hi, I'm Muhamad Syafii 👨. I live in West Java.
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
- <img src="https://worldvectorlogo.com/download/adobe-xd.svg" alt="xd" width="40" height="40"/>
+ <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="xd" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg" alt="zeplin" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </p>
