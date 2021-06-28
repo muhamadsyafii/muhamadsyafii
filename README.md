@@ -2,9 +2,18 @@
 
 Hi, I'm Muhamad Syafii 👨. I live in West Java.
 
-## Github Performance Overall
+## My Tech Toolbox 🧰 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=muhamadsyafii&show_icons=true)
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+ <img src="https://worldvectorlogo.com/download/adobe-xd.svg" alt="xd" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg" alt="zeplin" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+</p>
 
 
 ## How I work
@@ -23,6 +32,13 @@ My motivation is to be useful to others and fulfill my obligations to complete e
 
 ##
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadsyafii&layout=compact)
+
+ <details>
+<summary>📊 Github Performance Overall</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muhamadsyafii&show_icons=true&theme=gotham" alt="Muhamad Syafii | Stats" />
+
+</details>
 
 ## Social Media
 <a href="https://www.instagram.com/fii.upl" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="32px" alt="Instagram"></a>
