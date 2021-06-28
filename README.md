@@ -6,7 +6,7 @@ Hi, I'm Muhamad Syafii 👨. I live in West Java.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=muhamadsyafii&show_icons=true)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushi7rawat&show_icons=true&theme=gotham" alt="Ayushi Rawat | Stats" />
+ ![Visitor Count](https://profile-counter.glitch.me/{muhamadsyafii}/count.svg)
 
 ## How I work
 
