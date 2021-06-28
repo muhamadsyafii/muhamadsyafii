@@ -16,6 +16,7 @@ I live in West Java, Indonesian
  <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="xd" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg" alt="zeplin" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/android-studio.svg" alt="figma" width="40" height="40"/>
 </p>
 
 
