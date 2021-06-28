@@ -13,9 +13,11 @@ I live in West Java, Indonesian
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
- <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="xd" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="xd" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg" alt="zeplin" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+<img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" alt="figma" width="40" height="40"/>
+ 
 </p>
 
 
