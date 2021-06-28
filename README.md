@@ -1,6 +1,7 @@
 # Muhamad Syafii
+# [Hi <img src="https://github.com/muhamadsyafii/muhamadsyafii/blob/master/gif/Hi.gif?raw=true" width="30px"> I am Muhamad Syafii](https://muhamadsyafii.github.io)
 
-Hi, I'm Muhamad Syafii 👨. I live in West Java.
+I live in West Java.
 
 ## My Tech Toolbox 🧰 
 
