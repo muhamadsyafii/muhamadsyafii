@@ -1,6 +1,6 @@
-## [Hi,I'm Muhamad Syafii] <img src="https://github.com/muhamadsyafii/muhamadsyafii/blob/master/gif/Hi.gif?raw=true" width="30px">
+## Hi,I'm Muhamad Syafii 👨 <img src="https://github.com/muhamadsyafii/muhamadsyafii/blob/master/gif/Hi.gif?raw=true" width="30px">
 
-Hi, I'm Muhamad Syafii 👨. I live in West Java.
+I live in West Java, Indonesian
 
 ## My Tech Toolbox 🧰 
 
