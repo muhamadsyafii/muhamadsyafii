@@ -5,7 +5,7 @@
 
 I live in West Java, Indonesian
 
-## My Tech Toolbox 🧰 
+## Languages and My Tech Toolbox 🧰 
 
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="40" height="40"/> 
