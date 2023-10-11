@@ -28,7 +28,7 @@ My motivation is to be useful to others and fulfill my obligations to complete e
 
 - 📖 I’m currently learning Android;
 - 🤔 My interests are with Android Developer;
-- 💼 I’m a Bachelor's degree in Software Engineering;
+- 💼 I’m a Master's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via muhamadsyafii4@gmail.com to reach me.
 
