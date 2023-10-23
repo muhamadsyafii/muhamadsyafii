@@ -46,3 +46,6 @@ My motivation is to be useful to others and fulfill my obligations to complete e
 [twitter]: https://twitter.com/fii_upl
 [linkedin]: https://www.linkedin.com/in/muhamadsyafii4
 [Instagram]: https://www.instagram.com/fii.upl
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?muhamadsyafii=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
