@@ -50,3 +50,4 @@ My motivation is to be useful to others and fulfill my obligations to complete e
 
 [![trophy](https://github-profile-trophy.vercel.app/?muhamadsyafii=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?muhamadsyafii=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ekhiw&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
