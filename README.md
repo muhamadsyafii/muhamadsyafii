@@ -33,8 +33,8 @@ My motivation is to be useful to others and fulfill my obligations to complete e
 - 📫 Please email via muhamadsyafii4@gmail.com to reach me.
 
 
-<!-- ## 📊 Github Stats -->
-<!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=muhamadsyafii&show_icons=true&theme=graywhite" alt="Muhamad Syafii | Stats" /> -->
+## 📊 Github Stats
+ <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=muhamadsyafii&show_icons=true&theme=graywhite" alt="Muhamad Syafii | Stats" /> 
 
 ## Support
 <p><a href="https://www.buymeacoffee.com/muhamadsya"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="muhamadsyafii" /></a></p>
