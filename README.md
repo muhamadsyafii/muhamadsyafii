@@ -36,11 +36,26 @@ My motivation is to be useful to others and fulfill my obligations to complete e
 <!--    ## 📊 Github Stats-->
 <!--    <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=muhamadsyafii&show_icons=true&theme=graywhite" alt="Muhamad Syafii | Stats" />-->
 
+## 📊 Github Stats
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/muhamadsyafii">
+        <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadsyafii&hide=javascript,css&theme=light&layout=compact" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/muhamadsyafii">
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=muhamadsyafii&hide=contribs&show_icons=true&include_all_commits=true&count_private=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## Support
 <p><a href="https://www.buymeacoffee.com/muhamadsya"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="muhamadsyafii" /></a></p>
 
-## GitHub Status
-<a href="https://github.com/muhamadsyafii"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=muhamadsyafii&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
+
 
  
  
