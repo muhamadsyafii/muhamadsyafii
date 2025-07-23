@@ -39,8 +39,9 @@ My motivation is to be useful to others and fulfill my obligations to complete e
 ## Support
 <p><a href="https://www.buymeacoffee.com/muhamadsya"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="muhamadsyafii" /></a></p>
 
-## Visitor
- ![Visitor Count](https://profile-counter.glitch.me/{muhamadsyafii}/count.svg)
+## GitHub Status
+<a href="https://github.com/muhamadsyafii"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=muhamadsyafii&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
+
  
  
 [twitter]: https://twitter.com/fii_upl
