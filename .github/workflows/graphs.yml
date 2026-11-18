@@ -30,6 +30,13 @@ jobs:
           sed -i 's/#000000/#0D1117/g' \
             dist/galaga-contribution-graph-dark.svg
 
+      - name: create Galaga profile header
+        run: |
+          cp dist/galaga-contribution-graph-dark.svg \
+            dist/galaga-header-dark.svg
+          sed -i 's|</svg>|<rect x="308" y="72" width="550" height="120" rx="24" fill="#0D1117" fill-opacity="0.82" stroke="#1E1B4B" stroke-width="2"/><text x="583" y="122" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" fill="#F8FAFC">Muhamad Syafii</text><text x="583" y="157" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#F8FAFC">To Infinity and Beyond 🚀</text></svg>|' \
+            dist/galaga-header-dark.svg
+
       # Push the generated SVGs to the output branch
       - name: push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v5.0.0
