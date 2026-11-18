@@ -1,14 +1,41 @@
 <div align="center">
 
   <!-- Dynamic Wave / Gradient Header -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:1E1B4B,100:0F172A&height=185&section=header&text=Muhamad%20Syafii&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=To%20Infinity%20and%20Beyond%20🚀&descAlignY=62&descSize=16" width="100%" alt="Header Banner" /> 
+<!--
+<img
+  src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:1E1B4B,100:0F172A&height=185&section=header&text=Muhamad%20Syafii&fontSize=48&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=To%20Infinity%20and%20Beyond%20🚀&descAlignY=62&descSize=16"
+  width="100%"
+  alt="Header Banner"
+/>
+-->
+
+<div align="center">
+  <!-- Animated Galaga Header -->
+  <img
+    src="https://raw.githubusercontent.com/muhamadsyafii/muhamadsyafii/output/galaga-header-dark.svg"
+    width="100%"
+    alt="Muhamad Syafii — Galaga Header"
+  />
 
   <!-- Animated Subtitle -->
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Enterprise+Kotlin+Multiplatform+(KMP)+SDKs+%26+Android+Apps;Securing+Mobile+Architectures+with+Native+Rust+(JNI+%2F+NDK);Active+Open+Source+Contributor+%40TeamAmaze+(6%2C500%2B+Stars);Crafting+Cross-Platform+Desktop+%26+Mobile+Solutions"
+      alt="Animated Subtitle"
+    />
+  </a>
+
+</div>
+
+  <!-- Animated Subtitle -->
+
+  <!--
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Enterprise+Kotlin+Multiplatform+(KMP)+SDKs+%26+Android+Apps;Securing+Mobile+Architectures+with+Native+Rust+(JNI+%2F+NDK);Active+Open+Source+Contributor+%40TeamAmaze+(6%2C500%2B+Stars);Crafting+Cross-Platform+Desktop+%26+Mobile+Solutions" alt="Animated Subtitle" />
   </a>
 
   <br/>
+  -->
 
   <!-- Sleek Status Pills -->
   <p>
@@ -29,6 +56,7 @@
 </div>
 
 ---
+
 ## How I work
 
 My motivation is to be useful to others and fulfill my obligations to complete existing tasks, complete all checks ✅ that have not been completed and learn many new things 🆕 so that they remain open and easy to follow the flow. 😄
@@ -42,12 +70,9 @@ My motivation is to be useful to others and fulfill my obligations to complete e
 - 🤝 Open to open-source collaboration and meaningful projects.
 - 📫 Reach me at [muhamadsyafii4@gmail.com](mailto:muhamadsyafii4@gmail.com).
 
-
 ---
 
-
 ### 🧰 Languages and My Tech Toolbox 🧰
-
 
 <div align="center">
 
@@ -85,4 +110,3 @@ My motivation is to be useful to others and fulfill my obligations to complete e
     and Senior Android / Multiplatform Roles.
   </sub>
 </div>
-
