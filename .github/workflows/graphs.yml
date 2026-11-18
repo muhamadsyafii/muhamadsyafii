@@ -25,6 +25,11 @@ jobs:
           # Optional: omit the month labels row above the grid. Default: false
           hide_month_labels: "false"
 
+      - name: match Galaga background with GitHub Dark
+        run: |
+          sed -i 's/#000000/#0D1117/g' \
+            dist/galaga-contribution-graph-dark.svg
+
       # Push the generated SVGs to the output branch
       - name: push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v5.0.0
