@@ -65,7 +65,6 @@ My motivation is to be useful to others and fulfill my obligations to complete e
 
 - 💻 Building Android apps, Kotlin Multiplatform libraries, and developer tools.
 - 🦀 Exploring Rust, native integrations, and software architecture.
-- 🎓 Master's degree in Software Engineering.
 - 🌱 Always learning, improving, and sharing knowledge.
 - 🤝 Open to open-source collaboration and meaningful projects.
 - 📫 Reach me at [muhamadsyafii4@gmail.com](mailto:muhamadsyafii4@gmail.com).
